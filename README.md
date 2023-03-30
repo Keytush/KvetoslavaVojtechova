@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, my name is Kvetoslava Vojtechova</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software Developer Here!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">I am a Software Developer</h3>
 
 - 👩‍💻 Aspiring to be an excellent fullstack developer
