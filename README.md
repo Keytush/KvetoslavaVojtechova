@@ -4,7 +4,7 @@
   </a>
 </h1>
 <h3 align="left">My name is Kvetoslava Vojtechová . . . </h3>
-I am a 21 years old motivated Informatics student, currently searching for an internship.
+I am a 23 years old motivated Informatics student, currently searching for an internship.
 
 - 👩‍🎓 Currently pursuing Bachelor's Degree in Informatics at IMC University of Applied Sciences in Krems, Austria
 
